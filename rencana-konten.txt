@@ -1,4 +1,6 @@
 buat video javascript
+- kita akan menambahkan framework
+- mencoba algoritma baru
 php konten
 inteviews
 vlog
