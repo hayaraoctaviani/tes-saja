@@ -4,3 +4,4 @@ buat video javascript
 php konten
 inteviews
 vlog
+saya akan membuat sebuah struktur data baru
