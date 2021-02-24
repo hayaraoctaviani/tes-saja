@@ -1,4 +1,6 @@
 buat video javascript
+*vue
+*react
 - kita akan menambahkan framework
 - mencoba algoritma baru
 php konten
